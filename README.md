@@ -1,1 +1,3 @@
-# viz_and_exp
+# VIZ and EDA
+
+Code for topic in P8105.
